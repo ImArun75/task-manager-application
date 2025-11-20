@@ -13,7 +13,7 @@ The app supports user registration, login, role-based task access, and CRUD oper
 - REST API backend with Express.js and SQLite
 - React frontend with protected routes and role-based access control (RBAC)
 - Input validation using Joi
-- Optional Tailwind CSS for styling
+- Tailwind CSS for styling
 
 ---
 
@@ -142,4 +142,5 @@ Then log out and log in again for role changes to take effect.
 - Node.js, Express.js, SQLite3  
 - React (with Vite), React Router, Axios  
 - bcryptjs, jsonwebtoken, cors, dotenv, joi  
-- Tailwind CSS (optional)
+- Tailwind CSS
+
